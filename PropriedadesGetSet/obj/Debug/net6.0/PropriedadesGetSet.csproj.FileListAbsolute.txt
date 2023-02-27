@@ -1,0 +1,15 @@
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\PropriedadesGetSet\bin\Debug\net6.0\PropriedadesGetSet.exe
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\PropriedadesGetSet\bin\Debug\net6.0\PropriedadesGetSet.deps.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\PropriedadesGetSet\bin\Debug\net6.0\PropriedadesGetSet.runtimeconfig.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\PropriedadesGetSet\bin\Debug\net6.0\PropriedadesGetSet.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\PropriedadesGetSet\bin\Debug\net6.0\PropriedadesGetSet.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\PropriedadesGetSet\obj\Debug\net6.0\PropriedadesGetSet.csproj.AssemblyReference.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\PropriedadesGetSet\obj\Debug\net6.0\PropriedadesGetSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\PropriedadesGetSet\obj\Debug\net6.0\PropriedadesGetSet.AssemblyInfoInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\PropriedadesGetSet\obj\Debug\net6.0\PropriedadesGetSet.AssemblyInfo.cs
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\PropriedadesGetSet\obj\Debug\net6.0\PropriedadesGetSet.csproj.CoreCompileInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\PropriedadesGetSet\obj\Debug\net6.0\PropriedadesGetSet.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\PropriedadesGetSet\obj\Debug\net6.0\refint\PropriedadesGetSet.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\PropriedadesGetSet\obj\Debug\net6.0\PropriedadesGetSet.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\PropriedadesGetSet\obj\Debug\net6.0\PropriedadesGetSet.genruntimeconfig.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\PropriedadesGetSet\obj\Debug\net6.0\ref\PropriedadesGetSet.dll

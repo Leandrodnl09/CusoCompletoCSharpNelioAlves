@@ -1,0 +1,15 @@
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\DemoStringBuilder\bin\Debug\net6.0\DemoStringBuilder.exe
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\DemoStringBuilder\bin\Debug\net6.0\DemoStringBuilder.deps.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\DemoStringBuilder\bin\Debug\net6.0\DemoStringBuilder.runtimeconfig.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\DemoStringBuilder\bin\Debug\net6.0\DemoStringBuilder.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\DemoStringBuilder\bin\Debug\net6.0\DemoStringBuilder.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\DemoStringBuilder\obj\Debug\net6.0\DemoStringBuilder.csproj.AssemblyReference.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\DemoStringBuilder\obj\Debug\net6.0\DemoStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\DemoStringBuilder\obj\Debug\net6.0\DemoStringBuilder.AssemblyInfoInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\DemoStringBuilder\obj\Debug\net6.0\DemoStringBuilder.AssemblyInfo.cs
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\DemoStringBuilder\obj\Debug\net6.0\DemoStringBuilder.csproj.CoreCompileInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\DemoStringBuilder\obj\Debug\net6.0\DemoStringBuilder.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\DemoStringBuilder\obj\Debug\net6.0\refint\DemoStringBuilder.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\DemoStringBuilder\obj\Debug\net6.0\DemoStringBuilder.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\DemoStringBuilder\obj\Debug\net6.0\DemoStringBuilder.genruntimeconfig.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\DemoStringBuilder\obj\Debug\net6.0\ref\DemoStringBuilder.dll

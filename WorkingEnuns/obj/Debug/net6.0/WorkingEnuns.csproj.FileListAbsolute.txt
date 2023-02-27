@@ -1,0 +1,15 @@
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\WorkingEnuns\bin\Debug\net6.0\WorkingEnuns.exe
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\WorkingEnuns\bin\Debug\net6.0\WorkingEnuns.deps.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\WorkingEnuns\bin\Debug\net6.0\WorkingEnuns.runtimeconfig.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\WorkingEnuns\bin\Debug\net6.0\WorkingEnuns.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\WorkingEnuns\bin\Debug\net6.0\WorkingEnuns.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\WorkingEnuns\obj\Debug\net6.0\WorkingEnuns.csproj.AssemblyReference.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\WorkingEnuns\obj\Debug\net6.0\WorkingEnuns.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\WorkingEnuns\obj\Debug\net6.0\WorkingEnuns.AssemblyInfoInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\WorkingEnuns\obj\Debug\net6.0\WorkingEnuns.AssemblyInfo.cs
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\WorkingEnuns\obj\Debug\net6.0\WorkingEnuns.csproj.CoreCompileInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\WorkingEnuns\obj\Debug\net6.0\WorkingEnuns.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\WorkingEnuns\obj\Debug\net6.0\refint\WorkingEnuns.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\WorkingEnuns\obj\Debug\net6.0\WorkingEnuns.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\WorkingEnuns\obj\Debug\net6.0\WorkingEnuns.genruntimeconfig.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\WorkingEnuns\obj\Debug\net6.0\ref\WorkingEnuns.dll

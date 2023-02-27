@@ -1,0 +1,15 @@
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Composition\bin\Debug\net6.0\Composition.exe
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Composition\bin\Debug\net6.0\Composition.deps.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Composition\bin\Debug\net6.0\Composition.runtimeconfig.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Composition\bin\Debug\net6.0\Composition.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Composition\bin\Debug\net6.0\Composition.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Composition\obj\Debug\net6.0\Composition.csproj.AssemblyReference.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Composition\obj\Debug\net6.0\Composition.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Composition\obj\Debug\net6.0\Composition.AssemblyInfoInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Composition\obj\Debug\net6.0\Composition.AssemblyInfo.cs
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Composition\obj\Debug\net6.0\Composition.csproj.CoreCompileInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Composition\obj\Debug\net6.0\Composition.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Composition\obj\Debug\net6.0\refint\Composition.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Composition\obj\Debug\net6.0\Composition.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Composition\obj\Debug\net6.0\Composition.genruntimeconfig.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Composition\obj\Debug\net6.0\ref\Composition.dll

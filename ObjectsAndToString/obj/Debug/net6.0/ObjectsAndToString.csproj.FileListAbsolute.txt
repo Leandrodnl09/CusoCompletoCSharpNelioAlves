@@ -1,0 +1,15 @@
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ObjectsAndToString\bin\Debug\net6.0\ObjectsAndToString.exe
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ObjectsAndToString\bin\Debug\net6.0\ObjectsAndToString.deps.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ObjectsAndToString\bin\Debug\net6.0\ObjectsAndToString.runtimeconfig.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ObjectsAndToString\bin\Debug\net6.0\ObjectsAndToString.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ObjectsAndToString\bin\Debug\net6.0\ObjectsAndToString.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ObjectsAndToString\obj\Debug\net6.0\ObjectsAndToString.csproj.AssemblyReference.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ObjectsAndToString\obj\Debug\net6.0\ObjectsAndToString.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ObjectsAndToString\obj\Debug\net6.0\ObjectsAndToString.AssemblyInfoInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ObjectsAndToString\obj\Debug\net6.0\ObjectsAndToString.AssemblyInfo.cs
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ObjectsAndToString\obj\Debug\net6.0\ObjectsAndToString.csproj.CoreCompileInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ObjectsAndToString\obj\Debug\net6.0\ObjectsAndToString.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ObjectsAndToString\obj\Debug\net6.0\refint\ObjectsAndToString.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ObjectsAndToString\obj\Debug\net6.0\ObjectsAndToString.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ObjectsAndToString\obj\Debug\net6.0\ObjectsAndToString.genruntimeconfig.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ObjectsAndToString\obj\Debug\net6.0\ref\ObjectsAndToString.dll

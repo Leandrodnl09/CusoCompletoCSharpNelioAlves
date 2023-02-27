@@ -1,0 +1,15 @@
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioMatriz2\bin\Debug\net6.0\ExercicioMatriz2.exe
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioMatriz2\bin\Debug\net6.0\ExercicioMatriz2.deps.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioMatriz2\bin\Debug\net6.0\ExercicioMatriz2.runtimeconfig.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioMatriz2\bin\Debug\net6.0\ExercicioMatriz2.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioMatriz2\bin\Debug\net6.0\ExercicioMatriz2.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioMatriz2\obj\Debug\net6.0\ExercicioMatriz2.csproj.AssemblyReference.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioMatriz2\obj\Debug\net6.0\ExercicioMatriz2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioMatriz2\obj\Debug\net6.0\ExercicioMatriz2.AssemblyInfoInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioMatriz2\obj\Debug\net6.0\ExercicioMatriz2.AssemblyInfo.cs
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioMatriz2\obj\Debug\net6.0\ExercicioMatriz2.csproj.CoreCompileInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioMatriz2\obj\Debug\net6.0\ExercicioMatriz2.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioMatriz2\obj\Debug\net6.0\refint\ExercicioMatriz2.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioMatriz2\obj\Debug\net6.0\ExercicioMatriz2.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioMatriz2\obj\Debug\net6.0\ExercicioMatriz2.genruntimeconfig.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioMatriz2\obj\Debug\net6.0\ref\ExercicioMatriz2.dll

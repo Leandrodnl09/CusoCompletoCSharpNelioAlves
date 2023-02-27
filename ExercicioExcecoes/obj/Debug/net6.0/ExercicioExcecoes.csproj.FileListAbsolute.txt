@@ -1,0 +1,15 @@
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioExcecoes\bin\Debug\net6.0\ExercicioExcecoes.exe
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioExcecoes\bin\Debug\net6.0\ExercicioExcecoes.deps.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioExcecoes\bin\Debug\net6.0\ExercicioExcecoes.runtimeconfig.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioExcecoes\bin\Debug\net6.0\ExercicioExcecoes.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioExcecoes\bin\Debug\net6.0\ExercicioExcecoes.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioExcecoes\obj\Debug\net6.0\ExercicioExcecoes.csproj.AssemblyReference.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioExcecoes\obj\Debug\net6.0\ExercicioExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioExcecoes\obj\Debug\net6.0\ExercicioExcecoes.AssemblyInfoInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioExcecoes\obj\Debug\net6.0\ExercicioExcecoes.AssemblyInfo.cs
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioExcecoes\obj\Debug\net6.0\ExercicioExcecoes.csproj.CoreCompileInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioExcecoes\obj\Debug\net6.0\ExercicioExcecoes.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioExcecoes\obj\Debug\net6.0\refint\ExercicioExcecoes.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioExcecoes\obj\Debug\net6.0\ExercicioExcecoes.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioExcecoes\obj\Debug\net6.0\ExercicioExcecoes.genruntimeconfig.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ExercicioExcecoes\obj\Debug\net6.0\ref\ExercicioExcecoes.dll

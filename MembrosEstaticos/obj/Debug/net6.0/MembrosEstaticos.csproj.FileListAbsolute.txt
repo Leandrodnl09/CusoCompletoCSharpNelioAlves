@@ -1,0 +1,15 @@
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.exe
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.deps.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.runtimeconfig.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.csproj.AssemblyReference.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.AssemblyInfoInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.AssemblyInfo.cs
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\MembrosEstaticos\obj\Debug\net6.0\refint\MembrosEstaticos.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.genruntimeconfig.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\MembrosEstaticos\obj\Debug\net6.0\ref\MembrosEstaticos.dll

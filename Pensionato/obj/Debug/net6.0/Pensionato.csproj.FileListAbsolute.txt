@@ -1,0 +1,15 @@
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Pensionato\bin\Debug\net6.0\Pensionato.exe
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Pensionato\bin\Debug\net6.0\Pensionato.deps.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Pensionato\bin\Debug\net6.0\Pensionato.runtimeconfig.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Pensionato\bin\Debug\net6.0\Pensionato.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Pensionato\bin\Debug\net6.0\Pensionato.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Pensionato\obj\Debug\net6.0\Pensionato.csproj.AssemblyReference.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Pensionato\obj\Debug\net6.0\Pensionato.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Pensionato\obj\Debug\net6.0\Pensionato.AssemblyInfoInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Pensionato\obj\Debug\net6.0\Pensionato.AssemblyInfo.cs
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Pensionato\obj\Debug\net6.0\Pensionato.csproj.CoreCompileInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Pensionato\obj\Debug\net6.0\Pensionato.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Pensionato\obj\Debug\net6.0\refint\Pensionato.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Pensionato\obj\Debug\net6.0\Pensionato.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Pensionato\obj\Debug\net6.0\Pensionato.genruntimeconfig.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Pensionato\obj\Debug\net6.0\ref\Pensionato.dll

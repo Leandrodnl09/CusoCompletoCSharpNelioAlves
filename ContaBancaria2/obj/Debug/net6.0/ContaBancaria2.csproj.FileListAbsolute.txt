@@ -1,0 +1,5 @@
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ContaBancaria2\obj\Debug\net6.0\ContaBancaria2.csproj.AssemblyReference.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ContaBancaria2\obj\Debug\net6.0\ContaBancaria2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ContaBancaria2\obj\Debug\net6.0\ContaBancaria2.AssemblyInfoInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ContaBancaria2\obj\Debug\net6.0\ContaBancaria2.AssemblyInfo.cs
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\ContaBancaria2\obj\Debug\net6.0\ContaBancaria2.csproj.CoreCompileInputs.cache

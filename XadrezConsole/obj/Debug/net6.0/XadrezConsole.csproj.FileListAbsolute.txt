@@ -1,0 +1,15 @@
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\XadrezConsole\bin\Debug\net6.0\XadrezConsole.exe
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\XadrezConsole\bin\Debug\net6.0\XadrezConsole.deps.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\XadrezConsole\bin\Debug\net6.0\XadrezConsole.runtimeconfig.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\XadrezConsole\bin\Debug\net6.0\XadrezConsole.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\XadrezConsole\bin\Debug\net6.0\XadrezConsole.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\XadrezConsole\obj\Debug\net6.0\XadrezConsole.csproj.AssemblyReference.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\XadrezConsole\obj\Debug\net6.0\XadrezConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\XadrezConsole\obj\Debug\net6.0\XadrezConsole.AssemblyInfoInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\XadrezConsole\obj\Debug\net6.0\XadrezConsole.AssemblyInfo.cs
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\XadrezConsole\obj\Debug\net6.0\XadrezConsole.csproj.CoreCompileInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\XadrezConsole\obj\Debug\net6.0\XadrezConsole.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\XadrezConsole\obj\Debug\net6.0\refint\XadrezConsole.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\XadrezConsole\obj\Debug\net6.0\XadrezConsole.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\XadrezConsole\obj\Debug\net6.0\XadrezConsole.genruntimeconfig.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\XadrezConsole\obj\Debug\net6.0\ref\XadrezConsole.dll

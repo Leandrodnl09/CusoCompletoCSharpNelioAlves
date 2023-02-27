@@ -1,0 +1,15 @@
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Expressoes\bin\Debug\net6.0\Expressoes.exe
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Expressoes\bin\Debug\net6.0\Expressoes.deps.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Expressoes\bin\Debug\net6.0\Expressoes.runtimeconfig.json
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Expressoes\bin\Debug\net6.0\Expressoes.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Expressoes\bin\Debug\net6.0\Expressoes.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Expressoes\obj\Debug\net6.0\Expressoes.csproj.AssemblyReference.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Expressoes\obj\Debug\net6.0\Expressoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Expressoes\obj\Debug\net6.0\Expressoes.AssemblyInfoInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Expressoes\obj\Debug\net6.0\Expressoes.AssemblyInfo.cs
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Expressoes\obj\Debug\net6.0\Expressoes.csproj.CoreCompileInputs.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Expressoes\obj\Debug\net6.0\Expressoes.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Expressoes\obj\Debug\net6.0\refint\Expressoes.dll
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Expressoes\obj\Debug\net6.0\Expressoes.pdb
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Expressoes\obj\Debug\net6.0\Expressoes.genruntimeconfig.cache
+D:\LEANDRO\CURSOS\UDEMY CSharp POO e Projetos\Expressoes\obj\Debug\net6.0\ref\Expressoes.dll
